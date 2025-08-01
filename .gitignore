@@ -1,0 +1,19 @@
+# Arquivos de ambiente
+.env
+.env.*
+env/
+venv/
+.venv/
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de input e output (geralmente não versionados)
+data/
+
+# Metadados do editor e do SO
+.vscode/
+.DS_Store
